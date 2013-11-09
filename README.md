@@ -1,4 +1,4 @@
-Bing Wallpaper for Mac and Ubuntu
+Bing Wallpaper for Mac
 =================================
 
 Information
